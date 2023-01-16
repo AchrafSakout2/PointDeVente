@@ -1,4 +1,4 @@
-package ma.sellPoint.PointDeVente;
+package ma.sellPoint.pointdevente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

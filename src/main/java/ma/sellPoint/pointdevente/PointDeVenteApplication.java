@@ -1,4 +1,4 @@
-package ma.sellPoint.PointDeVente;
+package ma.sellPoint.pointdevente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
